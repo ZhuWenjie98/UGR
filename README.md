@@ -1,0 +1,2 @@
+# UGR
+Official Codebase of  Architecture_Agnostic_Unsupervised_Gradient_Regularization_For_Parameter_Efficient_Transfer_Learning" for ECCV2024 workshop 1st Workshop on Green Foundation Models

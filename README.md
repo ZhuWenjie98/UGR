@@ -1,2 +1,3 @@
-# UGR
-Official Codebase of  Architecture_Agnostic_Unsupervised_Gradient_Regularization_For_Parameter_Efficient_Transfer_Learning" for ECCV2024 workshop 1st Workshop on Green Foundation Models
+# Architecture-Agnostic Unsupervised Gradient Regularization For Parameter-Efficient Transfer Learning
+
+This repository provides the official PyTorch implementation of our ECCV 2024 workshop paper:   
